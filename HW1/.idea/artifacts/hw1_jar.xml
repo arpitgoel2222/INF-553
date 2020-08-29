@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hw1:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="hw1.jar">
+      <element id="module-output" name="hw1-build" />
+      <element id="module-output" name="hw1" />
+      <element id="library" level="project" name="sbt: org.json4s:json4s-core_2.11:3.2.11:jar" />
+      <element id="library" level="project" name="sbt: org.json4s:json4s-jackson_2.11:3.2.11:jar" />
+    </root>
+  </artifact>
+</component>
